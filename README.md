@@ -13,5 +13,6 @@ FB - https://www.facebook.com/tezjarl
 8. [Еще одна статья про перфоманс gRPC vs REST](https://medium.com/@EmperorRXF/evaluating-performance-of-rest-vs-grpc-1b8bdf0b22da)
 9. [Исследование Criteo различных технологий сериализации](https://labs.criteo.com/2017/05/serialization/)
 10. [Как собрать Wireshark чтобы сниффать gRPC](https://github.com/grpc/grpc/issues/13586)
+11. [Гайд по миграции с WCF на gRPC](https://docs.microsoft.com/en-us/dotnet/architecture/grpc-for-wcf-developers/migrate-wcf-to-grpc)
 
 Ссылка на презентацию
